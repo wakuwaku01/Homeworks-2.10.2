@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "D:/C++/Netology/Part-2-base/my_figure_cmake_project/out/build/x64-Debug/CMakeFiles/my_figure_cmake_project.dir/embed.manifest"

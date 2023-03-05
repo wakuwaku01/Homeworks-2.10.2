@@ -1,0 +1,3 @@
+cmake_minimum_required(VERSION 3.10)
+project(my_figure_cmake_project)
+add_executable(my_figure_cmake_project Homework-2.6.3.cpp figure.h figure.cpp triangle.h triangle.cpp RightTriangle.h RightTriangle.cpp	EquilateralTriangle.h EquilateralTriangle.cpp IsoscelesTriangle.h IsoscelesTriangle.cpp quadrangle.h quadrangle.cpp	rectangle.h rectangle.cpp square.h square.cpp parallelogram.h parallelogram.cpp rhombus.h rhombus.cpp)

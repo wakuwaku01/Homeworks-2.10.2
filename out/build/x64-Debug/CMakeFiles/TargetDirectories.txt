@@ -1,0 +1,3 @@
+D:/C++/Netology/Part-2-base/my_figure_cmake_project/out/build/x64-Debug/CMakeFiles/my_figure_cmake_project.dir
+D:/C++/Netology/Part-2-base/my_figure_cmake_project/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/C++/Netology/Part-2-base/my_figure_cmake_project/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
